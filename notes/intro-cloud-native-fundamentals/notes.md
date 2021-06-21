@@ -37,8 +37,8 @@ Facts about Kubernetes
 
 Overall, Kubernetes is a container orchestrator that is capable to solutionize the integration of the following functionalities:
 
---- | --- 
 **Funtionalities** | **Usage**
+--- | --- 
 Runtime | For application execution environment
 Networking | For application connectivity
 Storage | For application resources
