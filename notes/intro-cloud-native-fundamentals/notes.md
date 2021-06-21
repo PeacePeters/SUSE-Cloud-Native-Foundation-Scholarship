@@ -30,10 +30,9 @@ With the use of containers came the need for tools that can manage containers at
 
 > Kubernete is a container orchestrator that automates the configuration, management, and scalability of an application.
 
-Facts about Kubernetes
-+ Derived form Google's Borg - an open-source container orchestrator
-- Released in 2014
-* Maintained CNCF (Cloud Native Computing Foundation)
+Facts about Kubernetes and CNCF
+
+Screenshot 2021-06-21 at 16.18.54
 
 Overall, Kubernetes is a container orchestrator that is capable to solutionize the integration of the following functionalities:
 
@@ -42,6 +41,6 @@ Overall, Kubernetes is a container orchestrator that is capable to solutionize t
 Runtime | For application execution environment
 Networking | For application connectivity
 Storage | For application resources
-Service Mesh | for granular control of the traffic within a cluster
+Service Mesh | For granular control of the traffic within a cluster
 Logs and metrics | To construct the observability stack
 Tracing | For building the full request journey
