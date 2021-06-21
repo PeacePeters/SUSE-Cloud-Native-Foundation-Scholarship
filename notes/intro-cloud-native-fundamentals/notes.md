@@ -32,7 +32,7 @@ With the use of containers came the need for tools that can manage containers at
 
 Facts about Kubernetes and CNCF
 
-Screenshot 2021-06-21 at 16.18.54
+<img width="621" alt="Screenshot 2021-06-21 at 16 18 54" src="https://user-images.githubusercontent.com/68206315/122786970-c36f6f00-d2ac-11eb-8c87-214826f5014c.png">
 
 Overall, Kubernetes is a container orchestrator that is capable to solutionize the integration of the following functionalities:
 
