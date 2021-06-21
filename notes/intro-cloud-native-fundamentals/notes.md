@@ -26,7 +26,9 @@ Containers are:
 
 ### CNCF and Cloud-Native Tooling
 
-With the use of containers came the need for tools that can manage containers at scale. Examples are of such tools are Docker Swaem, Apache Mesos & Kubernetes. However, Kubernetes took the lead in defining how containerized workloads should be deployed, managed, and deployed.
+With the use of containers came the need for tools that can manage containers at scale. Examples are of such tools are Docker Swaem, Apache Mesos & Kubernetes. However, Kubernetes took the lead in defining how containerized workloads should be deployed, managed, and configured.
+
+> Kubernete is a container orchestrator that automates the configuration, management, and scalability of an application.
 
 Facts about Kubernetes
 + Derived form Google's Borg - an open-source container orchestrator
@@ -35,10 +37,11 @@ Facts about Kubernetes
 
 Overall, Kubernetes is a container orchestrator that is capable to solutionize the integration of the following functionalities:
 
-* Runtime
-+ Networking
-- Storage
-* Service Mesh
-- Logs and metrics
-+ Tracing
-
+--- | --- 
+**Funtionalities** | **Usage**
+Runtime | For application execution environment
+Networking | For application connectivity
+Storage | For application resources
+Service Mesh | for granular control of the traffic within a cluster
+Logs and metrics | To construct the observability stack
+Tracing | For building the full request journey
