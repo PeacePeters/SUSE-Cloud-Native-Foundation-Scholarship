@@ -3,10 +3,10 @@
 <a href="http://https://www.udacity.com/"><img src="https://udacity-email.s3-us-west-2.amazonaws.com/SUSE+Scholarship+badge.png" title="Udacity SUSE Scholarship"></a>
 
 Welcome to the Cloud Native community repository! Here you will find resources relating to Software Development, Microservices, Container Management and host of other related material shared by amazing scholars. 🤩 The main goal of this repository is to help every interested learner, rookie or master, by sharing the knowledge we as a group have acquired so far!! All insightful material including notes, code, video, mind maps, etc can be shared. We hope this repository helps to built a better understanding of the concepts!!
-> Perks of contributing 😉👉 We'll be tagging you on Slack to show our appreciation for your contribution toward learning!
+
+This repository consists of my learning from the course along with some resources relating to Software Development, Microservices, Container Management, etc. Hope it helps to built a better understanding of the concepts!!
 
 ## Table of Content
-+ [Installation](#installation)
 * [Prerequisite](#prerequisite)
 + [Contributing](#contributing)
 - [Team](#team)
@@ -14,14 +14,7 @@ Welcome to the Cloud Native community repository! Here you will find resources r
 
 ---
 
-## Installation
-
-### Clone
-- Clone this repo to your local machine using https://github.com/PeacePeters/SUSE-Cloud-Native-Foundation-Scholarship.git
-
----
-
-## PREREQUISITE
+## 
 
 - **New to Git & GitHub??** Get yourself comforatable by following the tutorials below:
   1. GitHub using Git Bash: https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be
@@ -30,7 +23,7 @@ Welcome to the Cloud Native community repository! Here you will find resources r
 - How to create a **Pull Request?** Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 
 ---
-## Documentation
+## Course Prerequisites
 
 - Confused where to start with suggested prerequisites??
  Refer to [Understanding the basics of http]() resourse to get familiar with client, server, and interner request.
