@@ -2,9 +2,11 @@
 
 <a href="http://https://www.udacity.com/"><img src="https://udacity-email.s3-us-west-2.amazonaws.com/SUSE+Scholarship+badge.png" title="Udacity SUSE Scholarship"></a>
 
+## Overview
+
 This repository consists of my learning from the course along with some resources relating to Software Development, Microservices, Container Management, etc. Hope it helps to built a better understanding of the concepts!!
 
-- **New to Git & GitHub??** Get yourself comforatable by following the tutorials below:
+> **New to Git & GitHub??** Get yourself comforatable by following the tutorials below:
   1. GitHub using Git Bash: https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be
   2. Github using GitHub Desktop: https://www.youtube.com/watch?v=77W2JSL7-r8&feature=youtu.be
   
