@@ -15,7 +15,8 @@ __Day 1: 05/07/2021__
 1. Yesterday, played around with some docker and Kubernetes commands like 
    * `docker container stop <container-id` - stops a running container 
    * `docker rmi <repo_name/tag>` - removes image referenced in multiple repositories
-   * `docker system prune` cleans up any resources that are dangling not associated with a container like images, containers, etc
-   * `docker system prune -a` removes any stopped containers and all unused images
+   * `docker system prune` - cleans up any resources that are dangling not associated with a container like images, containers, etc
+   * `docker system prune -a` - removes any stopped containers and all unused images
 2. Today, reviewed lesson 2 and an amazing learning session during #crack-itTuesday in #l2_architecture_consideration channel
-3. Blockers: None
+3. Key learning points:
+
