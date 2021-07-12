@@ -51,3 +51,17 @@ Key learning points:
 **Day 4: 10/07/2021**
 
 ---
+
+**Day 4: 11/07/2021**
+
+1. Yesterday, attended ChocolateySaturday session and got to see how all the concepts learned in this Course come together in a real world project
+2. Today, I unwind and relax with some EURO 2020 footballing actions:soccer: and got to celebrate with my Italian friends!:it::champagnepop:
+3. Blockers: None
+
+---
+
+**Day 4: 12/07/2021**
+
+* Yesterday: I rested and unwind with some footballing actions in EURO 2020
+* Today, I reviewed lesson 3.1 - 3.8 on application packaging using Docker.
+* Blockers: None
