@@ -44,7 +44,7 @@ Key learning points:
 
 ---
 
-**Day 4: 09/07/2021**
+**Day 5: 09/07/2021**
 
 * Yesterday, read about API versioning.
 * Today, worked on project
@@ -52,7 +52,7 @@ Key learning points:
 
 ---
 
-**Day 4: 10/07/2021**
+**Day 6: 10/07/2021**
 
 1. Yesterday, worked on some projects
 2. Today, attended an amazing ChocolateySaturday session anchored by @Verdoso and got to see how all the concepts learned in this Course come together in a real world project
