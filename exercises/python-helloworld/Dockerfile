@@ -1,7 +1,7 @@
 FROM python:3.8
 LABEL maintainer="Peace Peters"
 
-COPY . /app
+COPY ./exercises/python-helloworld/ /app
 WORKDIR /app
 RUN pip install -r requirements.txt
 
