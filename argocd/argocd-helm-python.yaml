@@ -15,5 +15,6 @@ spec:
     path: helm/python-helloworld
     repoURL: https://github.com/PeacePeters/SUSE-Cloud-Native-Foundations-Scholarship 
     targetRevision: HEAD
+  # Sync policy
   syncPolicy:
     automated: {}
