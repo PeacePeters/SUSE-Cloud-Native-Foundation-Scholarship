@@ -13,5 +13,5 @@ spec:
       valueFiles:
       - values-staging.yaml
     path: helm/nginx-deployment
-    repoURL: https://github.com/PeacePeters/python-helloworld
+    repoURL: https://github.com/PeacePeters/SUSE-Cloud-Native-Foundations-Scholarship 
     targetRevision: HEAD
