@@ -19,7 +19,6 @@ This repository consists of my learning from the course along with some resource
 - Confused where to start with suggested prerequisites??
  Refer to [Understanding the basics of http]() resourse to get familiar with client, server, and interner request.
  
-- Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure.
 
 ---
 
